@@ -15,3 +15,12 @@ Genera un pie chart
 cd charts
 python3 main.py
 ```
+
+# ***CSV project***
+
+Genera gráficos desde un dataset
+
+```
+cd csv
+python3 main.py
+```
