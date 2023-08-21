@@ -28,3 +28,15 @@ source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
 ```
+
+# ***Request project***
+
+Consume categorías desde el fakeapi de platzi
+
+```sh
+cd web-server
+python3 -m venv env
+source env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+```
