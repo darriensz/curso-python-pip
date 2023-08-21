@@ -11,7 +11,7 @@ python3 main.py
 
 Genera un pie chart
 
-```
+```sh
 cd charts
 python3 main.py
 ```
@@ -20,7 +20,10 @@ python3 main.py
 
 Genera gráficos desde un dataset
 
-```
+```sh
+git clone
 cd csv
+source env/bin/activate
+pip3 install -r requirements.txt
 python3 main.py
 ```
